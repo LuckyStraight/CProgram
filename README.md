@@ -1,1 +1,1 @@
-# CProgram
+Above is basic C code of me learning this language in it's basic form. I intend to keep on learning more in depth of this language to get better. These are projects I learned in class assignments, but also alot of bigger projects with my twist.
