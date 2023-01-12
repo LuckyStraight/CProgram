@@ -1,0 +1,40 @@
+---Catalog Entry 1---
+BRAND: supreme
+NAME: jerret
+I.D.#: 1234
+QTY:    500
+PRICE:   $1.00
+AVERAGE INVENTORY: $2000.00
+
+---Catalog Entry 2---
+BRAND: Tori_Burch
+NAME: Marion_Crossbody
+I.D.#: 101
+QTY:    101
+PRICE:   $300.00
+AVERAGE INVENTORY: $200.20
+
+---Catalog Entry 3---
+BRAND: Tori_Burch
+NAME: Adalyn_Clutch
+I.D.#: 102
+QTY:    101
+PRICE:   $325.00
+AVERAGE INVENTORY: $200.20
+
+---Catalog Entry 4---
+BRAND: Tori_Burch
+NAME: Robinson_Bag
+I.D.#: 103
+QTY:    101
+PRICE:   $365.00
+AVERAGE INVENTORY: $200.20
+
+---Catalog Entry 5---
+BRAND: Tori_Burch
+NAME: Elise_Satchel
+I.D.#: 104
+QTY:    101
+PRICE:   $595.00
+AVERAGE INVENTORY: $200.20
+
